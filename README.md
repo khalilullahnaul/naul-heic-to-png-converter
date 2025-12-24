@@ -18,7 +18,7 @@ A private, secure, and lossless HEIC to PNG converter that runs entirely in your
 
 1.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/khalilullahnaul/naul-heic-to-png-converter.git
+    git clone https://github.com/khalilullahnaul/naul-heic-to-png-converter
     cd naul-heic-to-png-converter
     ```
 2.  **Install Dependencies**:
