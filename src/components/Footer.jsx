@@ -35,6 +35,7 @@ function Footer() {
                         <Link to="/about">About</Link>
                         <Link to="/privacy">Privacy Policy</Link>
                         <Link to="/terms">Terms of Service</Link>
+                        <a href="/sitemap.xml" target="_blank" rel="noopener noreferrer">Sitemap</a>
                     </nav>
                 </div>
 
