@@ -29,4 +29,4 @@ User-agent: Claude-Web
 Allow: /
 
 # Sitemap location
-Sitemap: https://heic-to-png.naul.dev/sitemap.xml
+Sitemap: https://naul-heic-to-png-converter.vercel.app/sitemap.xml

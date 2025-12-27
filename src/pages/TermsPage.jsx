@@ -11,11 +11,11 @@ function TermsPage() {
                 <title>Terms of Service - Free HEIC to PNG Converter | Naul</title>
                 <meta name="description" content="Terms of service for Naul HEIC to PNG Converter. Read our usage terms and guidelines for our free online image conversion tool." />
                 <meta name="keywords" content="terms of service, heic to png converter terms, usage terms, image converter policy" />
-                <link rel="canonical" href="https://heic-to-png.naul.dev/terms" />
+                <link rel="canonical" href="https://naul-heic-to-png-converter.vercel.app/terms" />
 
                 <meta property="og:title" content="Terms of Service - Free HEIC to PNG Converter" />
                 <meta property="og:description" content="Terms of service for our free HEIC to PNG converter." />
-                <meta property="og:url" content="https://heic-to-png.naul.dev/terms" />
+                <meta property="og:url" content="https://naul-heic-to-png-converter.vercel.app/terms" />
             </Helmet>
 
             <div className="page-container">

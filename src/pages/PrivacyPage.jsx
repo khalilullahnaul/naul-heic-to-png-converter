@@ -11,11 +11,11 @@ function PrivacyPage() {
                 <title>Privacy Policy - Free HEIC to PNG Converter | Naul</title>
                 <meta name="description" content="Privacy policy for Naul HEIC to PNG Converter. Learn how we protect your privacy with 100% client-side processing. No data collection, no tracking, no storage." />
                 <meta name="keywords" content="privacy policy, heic to png converter privacy, secure converter, private image conversion" />
-                <link rel="canonical" href="https://heic-to-png.naul.dev/privacy" />
+                <link rel="canonical" href="https://naul-heic-to-png-converter.vercel.app/privacy" />
 
                 <meta property="og:title" content="Privacy Policy - Free HEIC to PNG Converter" />
                 <meta property="og:description" content="Our commitment to your privacy. All conversions happen locally in your browser." />
-                <meta property="og:url" content="https://heic-to-png.naul.dev/privacy" />
+                <meta property="og:url" content="https://naul-heic-to-png-converter.vercel.app/privacy" />
             </Helmet>
 
             <div className="page-container">

@@ -61,8 +61,8 @@ function Footer() {
                     "@type": "Organization",
                     "name": "Naul HEIC Converter",
                     "description": "Free HEIC to PNG converter - Convert images online instantly",
-                    "url": "https://heic-to-png.naul.dev",
-                    "logo": "https://heic-to-png.naul.dev/favicon.svg",
+                    "url": "https://naul-heic-to-png-converter.vercel.app",
+                    "logo": "https://naul-heic-to-png-converter.vercel.app/favicon.svg",
                     "founder": {
                         "@type": "Person",
                         "name": "Khalilullah Naul",

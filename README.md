@@ -121,7 +121,7 @@ Your privacy is our top priority:
 - ✅ No accounts or registration required
 - ✅ Works completely offline after initial load
 
-Read our full [Privacy Policy](https://heic-to-png.naul.dev/privacy) for details.
+Read our full [Privacy Policy](https://naul-heic-to-png-converter.vercel.app/privacy) for details.
 ## Usage
 1.  Open the app in your browser (usually `http://localhost:5173`).
 2.  Drag and drop `.heic` or `.heif` files into the drop zone.

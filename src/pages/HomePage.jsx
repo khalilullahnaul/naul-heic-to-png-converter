@@ -89,20 +89,20 @@ function HomePage() {
                 <title>Free HEIC to PNG Converter - Convert HEIC Images Online Instantly | Naul</title>
                 <meta name="description" content="Convert HEIC to PNG for free online. Fast, secure, and 100% private HEIC to PNG converter that works in your browser. No upload, no registration required. Batch conversion supported." />
                 <meta name="keywords" content="free heic to png converter, heic to png, convert heic to png, heic converter, image converter, online converter, batch converter" />
-                <link rel="canonical" href="https://heic-to-png.naul.dev/" />
+                <link rel="canonical" href="https://naul-heic-to-png-converter.vercel.app/" />
 
                 {/* Open Graph */}
                 <meta property="og:title" content="Free HEIC to PNG Converter - Convert Images Instantly" />
                 <meta property="og:description" content="Convert HEIC to PNG for free online. Fast, secure, and 100% private conversion in your browser." />
                 <meta property="og:type" content="website" />
-                <meta property="og:url" content="https://heic-to-png.naul.dev/" />
-                <meta property="og:image" content="https://heic-to-png.naul.dev/og-image.png" />
+                <meta property="og:url" content="https://naul-heic-to-png-converter.vercel.app/" />
+                <meta property="og:image" content="https://naul-heic-to-png-converter.vercel.app/og-image.png" />
 
                 {/* Twitter Card */}
                 <meta name="twitter:card" content="summary_large_image" />
                 <meta name="twitter:title" content="Free HEIC to PNG Converter" />
                 <meta name="twitter:description" content="Convert HEIC to PNG for free online. Fast, secure, and 100% private." />
-                <meta name="twitter:image" content="https://heic-to-png.naul.dev/og-image.png" />
+                <meta name="twitter:image" content="https://naul-heic-to-png-converter.vercel.app/og-image.png" />
 
                 {/* Software Application Structured Data */}
                 <script type="application/ld+json">

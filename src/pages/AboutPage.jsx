@@ -9,11 +9,11 @@ function AboutPage() {
                 <title>About - Free HEIC to PNG Converter Online | Naul</title>
                 <meta name="description" content="Learn about our free HEIC to PNG converter. Convert Apple HEIC images to PNG format instantly in your browser. 100% private, secure, and free forever." />
                 <meta name="keywords" content="about heic converter, heic to png converter, what is heic, convert heic to png free, image converter" />
-                <link rel="canonical" href="https://heic-to-png.naul.dev/about" />
+                <link rel="canonical" href="https://naul-heic-to-png-converter.vercel.app/about" />
 
                 <meta property="og:title" content="About - Free HEIC to PNG Converter" />
                 <meta property="og:description" content="Learn about our free HEIC to PNG converter and why we're the best choice for converting your images." />
-                <meta property="og:url" content="https://heic-to-png.naul.dev/about" />
+                <meta property="og:url" content="https://naul-heic-to-png-converter.vercel.app/about" />
             </Helmet>
 
             <div className="page-container">
